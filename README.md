@@ -1,5 +1,5 @@
 # Analytics' Portfolio
 
-** ` Explorer On Journey (Analyst|Engineer|Shooting Guard) ` **
+` Explorer On Journey (Analyst|Engineer|Shooting Guard) `
 
 
