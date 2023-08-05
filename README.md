@@ -1,5 +1,3 @@
-# Analytics' Portfolio
-
 `Explorer On His Journey`
 
 # Projects
