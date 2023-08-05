@@ -1,6 +1,6 @@
 `Explorer On His Journey`
 
-# Projects
+# Data Analytics Projects
 Leading Group Project for deep customer behaviour analysis along with the recommendations to improve business process
 <br>[Revou Final Project](https://drive.google.com/file/d/1AqWZE96V8aoMtQp7AndgaH1hbRHhnm-B/view)
 
