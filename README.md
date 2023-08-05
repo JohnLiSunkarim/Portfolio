@@ -1,6 +1,6 @@
 # Analytics' Portfolio
 
-`Explorer On Journey (Analyst, Engineer, ekekek)`
+`Explorer On His Journey`
 
 # Projects
 Leading Group Project for deep customer behaviour analysis along with the recommendations to improve business process
